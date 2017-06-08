@@ -1,0 +1,12 @@
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\bin\Release\IEExtension.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\bin\Release\IEExtension.pdb
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\Interop.SHDocVw.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.csproj.ResolveComReference.cache
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.pdb
+C:\Users\welcome\Downloads\ie-bho-extension-master\bin\Release\IEExtension.dll
+C:\Users\welcome\Downloads\ie-bho-extension-master\bin\Release\IEExtension.pdb
+C:\Users\welcome\Downloads\ie-bho-extension-master\obj\Release\Interop.SHDocVw.dll
+C:\Users\welcome\Downloads\ie-bho-extension-master\obj\Release\IEExtension.csproj.ResolveComReference.cache
+C:\Users\welcome\Downloads\ie-bho-extension-master\obj\Release\IEExtension.dll
+C:\Users\welcome\Downloads\ie-bho-extension-master\obj\Release\IEExtension.pdb
